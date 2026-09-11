@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "KUBTSS")(type "KiCad")(uri "${KIPRJMOD}/KUBTSS.pretty")(options "")(descr "2027 board-local custom footprints"))
+)
